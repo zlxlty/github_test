@@ -3,3 +3,5 @@ hello
 add
 
 second amend commit
+
+message from master branch
