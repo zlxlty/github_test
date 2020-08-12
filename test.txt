@@ -6,4 +6,4 @@ second amend commit
 
 message from master branch
 
-hello from master branch
+hello from master testing branch
